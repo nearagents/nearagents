@@ -1,0 +1,40 @@
+{
+  "network": "mainnet",
+  "version": "nearest-dcl-4",
+  "deployed": "2026-10-16",
+  "factory": {
+    "account": "launch.goodhare8003.near",
+    "code_hash": "7MBhvkD3odhS2e26eTsjgLLKaiTE1AogTbmQ38apKayH",
+    "sha256": "5e51d7b6fd3a179ab7cc275fbfab91cbb57729cfc8e9eacf0040c41094381c84",
+    "bytes": 196584
+  },
+  "token": {
+    "global_code_hash": "AoPRQSq7cvnZtqBSruN8xi7LzYCb3CY3zVFu9dWtPNJP",
+    "sha256": "919b4033e283df8d78fc99b36ac35f07b966c0b15712975404a577b6ce8c51a4",
+    "bytes": 291230
+  },
+  "config": {
+    "version": "nearest-dcl-4",
+    "network": "mainnet",
+    "platform_share_bps": 0,
+    "platform_account": null,
+    "pool_fee": 100,
+    "max_tax_bps": 400,
+    "min_agent_share_bps": 2000,
+    "lp_holder": "vault",
+    "supply": "1000000000000000000000000000",
+    "left_point": -5000,
+    "right_point": 500000,
+    "exchange": "dclv2.ref-labs.near",
+    "wrapped_near": "wrap.near",
+    "guardian": "guardian.goodhare8003.near",
+    "keeper": "keeper.goodhare8003.near",
+    "agent_services": "agents.goodhare8003.near",
+    "token_code_hash": "AoPRQSq7cvnZtqBSruN8xi7LzYCb3CY3zVFu9dWtPNJP"
+  },
+  "guardian_drill": {
+    "date": "2026-10-16",
+    "pause": "DiSEGsgi7CEv83hYMQ9VZNf2V67SYBscGLSyjgZx3FbZ",
+    "resume": "D3Jcy9ownLXWaWgQbXkRdWZWW69nafoAjmr17gH6KEQA"
+  }
+}
